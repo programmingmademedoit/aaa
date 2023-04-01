@@ -1,0 +1,8 @@
+C:\Users\Lenovo\source\repos\HotelManager123\obj\Debug\netcoreapp3.1\HotelManager123.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\HotelManager123\obj\Debug\netcoreapp3.1\HotelManager123.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\HotelManager123\obj\Debug\netcoreapp3.1\HotelManager123.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\HotelManager123\obj\Debug\netcoreapp3.1\HotelManager123.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\HotelManager123\obj\Debug\netcoreapp3.1\HotelManager123.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\HotelManager123\obj\Debug\netcoreapp3.1\HotelManager123.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Lenovo\source\repos\HotelManager123\obj\Debug\netcoreapp3.1\HotelManager123.RazorAssemblyInfo.cache
+C:\Users\Lenovo\source\repos\HotelManager123\obj\Debug\netcoreapp3.1\HotelManager123.RazorAssemblyInfo.cs

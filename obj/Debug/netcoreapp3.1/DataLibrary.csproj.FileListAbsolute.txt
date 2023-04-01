@@ -1,0 +1,13 @@
+C:\it kariera\HotelReservationsManager\DataLibrary\bin\Debug\netcoreapp3.1\DataLibrary.deps.json
+C:\it kariera\HotelReservationsManager\DataLibrary\bin\Debug\netcoreapp3.1\DataLibrary.runtimeconfig.json
+C:\it kariera\HotelReservationsManager\DataLibrary\bin\Debug\netcoreapp3.1\DataLibrary.runtimeconfig.dev.json
+C:\it kariera\HotelReservationsManager\DataLibrary\bin\Debug\netcoreapp3.1\DataLibrary.dll
+C:\it kariera\HotelReservationsManager\DataLibrary\bin\Debug\netcoreapp3.1\DataLibrary.pdb
+C:\it kariera\HotelReservationsManager\DataLibrary\obj\Debug\netcoreapp3.1\DataLibrary.csproj.AssemblyReference.cache
+C:\it kariera\HotelReservationsManager\DataLibrary\obj\Debug\netcoreapp3.1\DataLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\it kariera\HotelReservationsManager\DataLibrary\obj\Debug\netcoreapp3.1\DataLibrary.AssemblyInfoInputs.cache
+C:\it kariera\HotelReservationsManager\DataLibrary\obj\Debug\netcoreapp3.1\DataLibrary.AssemblyInfo.cs
+C:\it kariera\HotelReservationsManager\DataLibrary\obj\Debug\netcoreapp3.1\DataLibrary.csproj.CoreCompileInputs.cache
+C:\it kariera\HotelReservationsManager\DataLibrary\obj\Debug\netcoreapp3.1\DataLibrary.dll
+C:\it kariera\HotelReservationsManager\DataLibrary\obj\Debug\netcoreapp3.1\DataLibrary.pdb
+C:\it kariera\HotelReservationsManager\DataLibrary\obj\Debug\netcoreapp3.1\DataLibrary.genruntimeconfig.cache

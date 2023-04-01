@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33423.256
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HotelManager", "HotelManager.csproj", "{74CE4D5D-9F64-4BFC-9647-7757E54A4AB8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataLibrary", "..\..\..\..\..\it kariera\HotelReservationsManager\DataLibrary\DataLibrary.csproj", "{9AC310D4-1F25-4F1A-A0E7-A9B2AC815F75}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{74CE4D5D-9F64-4BFC-9647-7757E54A4AB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74CE4D5D-9F64-4BFC-9647-7757E54A4AB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74CE4D5D-9F64-4BFC-9647-7757E54A4AB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74CE4D5D-9F64-4BFC-9647-7757E54A4AB8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9AC310D4-1F25-4F1A-A0E7-A9B2AC815F75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AC310D4-1F25-4F1A-A0E7-A9B2AC815F75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AC310D4-1F25-4F1A-A0E7-A9B2AC815F75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AC310D4-1F25-4F1A-A0E7-A9B2AC815F75}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6E050356-ACF5-4EA3-A391-A86A8C825139}
+	EndGlobalSection
+EndGlobal
